@@ -1,6 +1,6 @@
 # Neo LSPatch Framework Fork
 
-[![Build](https://img.shields.io/github/actions/workflow/status/7723mod/NPatch/main.yml?branch=master&logo=github&label=Build&event=push)](https://github.com/7723mod/NPatch/actions/workflows/main.yml?query=event%3Apush+is%3Acompleted+branch%3Amaster) [![Crowdin](https://img.shields.io/badge/Localization-Crowdin-bd00ff?logo=Crowdin)](https://crowdin.com/project/lspatch_jingmatrix) [![Download](https://img.shields.io/github/v/release/7723mod/NPatch?color=9b5de5&logoColor=ff1493&label=Download&logo=DocuSign)](https://github.com/7723mod/NPatch/releases/latest) [![Total](https://shields.io/github/downloads/7723mod/NPatch/total?logo=Bookmeter&label=Counts&logoColor=ff1493&color=9b5de5)](https://github.com/7723mod/NPatch/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/7723mod/NPatch/main.yml?branch=master&logo=github&label=Build&event=push)](https://github.com/AlexaMusick/NPatch/actions/workflows/main.yml?query=event%3Apush+is%3Acompleted+branch%3Amaster) [![Crowdin](https://img.shields.io/badge/Localization-Crowdin-bd00ff?logo=Crowdin)](https://crowdin.com/project/lspatch_jingmatrix) [![Download](https://img.shields.io/github/v/release/7723mod/NPatch?color=9b5de5&logoColor=ff1493&label=Download&logo=DocuSign)](https://github.com/AlexaMusick/NPatch/releases/latest) [![Total](https://shields.io/github/downloads/7723mod/NPatch/total?logo=Bookmeter&label=Counts&logoColor=ff1493&color=9b5de5)](https://github.com/AlexaMusick/NPatch/releases)
 
 ## Pre-Introduction 
 
@@ -15,8 +15,8 @@ They( sincerely invite you to join our [Telegram](https://t.me/NPatch) group to 
 
 ## Pre-Download
 
-For stable releases, please go to [Github Releases page](https://github.com/7723mod/NPatch/releases)
-For canary build, please check [Github Actions](https://github.com/7723mod/NPatch/actions)
+For original stable releases, please go to [Github Releases page](https://github.com/7723mod/NPatch/releases)
+For original canary build, please check [Github Actions](https://github.com/7723mod/NPatch/actions)
 Note: debug builds are only available in Github Actions
 
 ## Pre-Usage
